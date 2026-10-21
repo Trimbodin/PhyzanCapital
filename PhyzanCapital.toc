@@ -1,0 +1,41 @@
+## Interface: 16001
+## Title: Phyzan Capital
+## Notes: Auction house scanner and trading window: market prices by auction category, price lookup, crafting list, professions and craft profit. /capital
+## Author: Fredrick
+## Version: 1.4.2
+## IconTexture: Interface\Icons\INV_Misc_Coin_02
+## Category: Auctions
+## Category-deDE: Auktionen
+## Category-esES: Subastas
+## Category-esMX: Subastas
+## Category-frFR: Ventes
+## Category-itIT: Aste
+## Category-koKR: 경매
+## Category-ptBR: Leilões
+## Category-ruRU: Аукционы
+## Category-zhCN: 拍卖
+## Category-zhTW: 拍賣
+## X-Website: https://www.curseforge.com/wow/addons/phyzan-capital
+## X-Feedback: kingofthefallllc@gmail.com
+## X-License: GPL-3.0
+## SavedVariables: PhyzanCapitalDB
+
+Data\Vendors.lua
+Data\Recipes.lua
+Data\ItemNames.lua
+Data\ItemClasses.lua
+Core.lua
+Items.lua
+Categories.lua
+Character.lua
+Ledger.lua
+Scanner.lua
+VendorPrices.lua
+Professions.lua
+UI.lua
+Trade.lua
+ModernAH.lua
+Map.lua
+ShoppingList.lua
+ProfessionsTab.lua
+Lookup.lua
